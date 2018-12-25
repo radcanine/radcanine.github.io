@@ -16,5 +16,5 @@ tags:
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Commission for @Cinderhunk on twitter. Really had fun drawing this and working with the perspective.<figcaption>
+  <figcaption> Commission for @Cinderhunk on twitter. Really had fun drawing this and working with the perspective.</figcaption>
 </figure>
