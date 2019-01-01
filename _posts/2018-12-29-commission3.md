@@ -5,7 +5,6 @@ categories:
   - commission
 tags:
   - bara
-  - rou
   - commission
   - sfw
   - hotspring

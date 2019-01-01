@@ -5,7 +5,6 @@ categories:
   - commission
 tags:
   - tiger
-  - rou
   - commission
   - sfw
   - samurai
